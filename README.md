@@ -1,2 +1,2 @@
 #### This project is to compare Snap ML library, provided by IBM with the scikit-learn library, using the popular kaggle data set for credit card fraud detection on decion tree model. The Snap ML library is a Machine learning library provided by IBM with GPU accelerator enabled and has high prediction accuracy. With snap ML, our data set can run through our model more faster, compared to scikit-learn. 
-# JUST CLICK ON THE Update README.md FILE.
+# JUST CLICK ON THE credit_card_fraud.ipynb FILE.
